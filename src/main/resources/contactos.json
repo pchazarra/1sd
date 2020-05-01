@@ -1,0 +1,38 @@
+[
+  {
+    "nombre": "Francisco",
+    "apellidos": "Lopez",
+    "empresa": "UFV",
+    "telefono": "618470569",
+    "email": "Francisco@gmail.com",
+    "direccion": "Calle Rosales 35",
+    "id": "363c5000-9d41-42f2-8fba-620216a17fd3"
+  },
+  {
+    "nombre": "Raul",
+    "apellidos": "Fernandez",
+    "empresa": "UFV",
+    "telefono": "618470578",
+    "email": "Raul@gmail.com",
+    "direccion": "Calle Alcala 58",
+    "id": "19784435-368b-4db0-ae98-0d25f8d5cfb5"
+  },
+  {
+    "nombre": "Laura",
+    "apellidos": "Hernandez",
+    "empresa": "UFV",
+    "telefono": "618470487",
+    "email": "Laura@gmail.com",
+    "direccion": "Calle Brujula 58",
+    "id": "f51cf0bf-75c3-42db-afc2-5cc3a177c2da"
+  },
+  {
+    "nombre": "Raul",
+    "apellidos": "Jimenez",
+    "empresa": "UFV",
+    "telefono": "618470578",
+    "email": "Raul@gmail.com",
+    "direccion": "Calle Alcala 58",
+    "id": "7b276774-1c11-4adf-8cee-065b78bdf907"
+  }
+]
